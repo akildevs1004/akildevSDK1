@@ -1,0 +1,16 @@
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\bin\Release\net6.0\log4net.config
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\bin\Release\net6.0\FCardProtocolAPI.Command.deps.json
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\bin\Release\net6.0\FCardProtocolAPI.Command.dll
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\bin\Release\net6.0\FCardProtocolAPI.Command.pdb
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\bin\Release\net6.0\FCardProtocolAPI.Common.dll
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\bin\Release\net6.0\FCardProtocolAPI.Common.pdb
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\obj\Release\net6.0\FCardProtocolAPI.Command.csproj.AssemblyReference.cache
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\obj\Release\net6.0\FCardProtocolAPI.Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\obj\Release\net6.0\FCardProtocolAPI.Command.AssemblyInfoInputs.cache
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\obj\Release\net6.0\FCardProtocolAPI.Command.AssemblyInfo.cs
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\obj\Release\net6.0\FCardProtocolAPI.Command.csproj.CoreCompileInputs.cache
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\obj\Release\net6.0\FCardProtocolAPI.Command.csproj.CopyComplete
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\obj\Release\net6.0\FCardProtocolAPI.Command.dll
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\obj\Release\net6.0\refint\FCardProtocolAPI.Command.dll
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\obj\Release\net6.0\FCardProtocolAPI.Command.pdb
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\obj\Release\net6.0\ref\FCardProtocolAPI.Command.dll

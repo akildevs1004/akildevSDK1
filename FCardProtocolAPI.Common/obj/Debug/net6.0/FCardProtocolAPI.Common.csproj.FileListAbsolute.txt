@@ -1,0 +1,26 @@
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\bin\Debug\net6.0\log4net.config
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\bin\Debug\net6.0\FCardProtocolAPI.Common.deps.json
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\bin\Debug\net6.0\FCardProtocolAPI.Common.dll
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\bin\Debug\net6.0\FCardProtocolAPI.Common.pdb
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.csproj.AssemblyReference.cache
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.AssemblyInfoInputs.cache
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.AssemblyInfo.cs
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.csproj.CoreCompileInputs.cache
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.dll
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\obj\Debug\net6.0\refint\FCardProtocolAPI.Common.dll
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.pdb
+D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI.Common\obj\Debug\net6.0\ref\FCardProtocolAPI.Common.dll
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\bin\Debug\net6.0\log4net.config
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\bin\Debug\net6.0\FCardProtocolAPI.Common.deps.json
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\bin\Debug\net6.0\FCardProtocolAPI.Common.dll
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\bin\Debug\net6.0\FCardProtocolAPI.Common.pdb
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.csproj.AssemblyReference.cache
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.AssemblyInfoInputs.cache
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.AssemblyInfo.cs
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.csproj.CoreCompileInputs.cache
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.dll
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\obj\Debug\net6.0\refint\FCardProtocolAPI.Common.dll
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\obj\Debug\net6.0\FCardProtocolAPI.Common.pdb
+D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Common\obj\Debug\net6.0\ref\FCardProtocolAPI.Common.dll

@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\addCard.html",
+      "PackagePath": "staticwebassets\\ApiTest\\addCard.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\addPerson.html",
+      "PackagePath": "staticwebassets\\ApiTest\\addPerson.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ApiTest\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\cardOpenDoor.html",
+      "PackagePath": "staticwebassets\\ApiTest\\cardOpenDoor.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\closeDoor.html",
+      "PackagePath": "staticwebassets\\ApiTest\\closeDoor.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\deleteCard.html",
+      "PackagePath": "staticwebassets\\ApiTest\\deleteCard.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\deletePerson.html",
+      "PackagePath": "staticwebassets\\ApiTest\\deletePerson.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\getDevices.html",
+      "PackagePath": "staticwebassets\\ApiTest\\getDevices.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\getPersonDetail.html",
+      "PackagePath": "staticwebassets\\ApiTest\\getPersonDetail.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\getRecord.html",
+      "PackagePath": "staticwebassets\\ApiTest\\getRecord.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\getWorkParam.html",
+      "PackagePath": "staticwebassets\\ApiTest\\getWorkParam.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\holdDoor.html",
+      "PackagePath": "staticwebassets\\ApiTest\\holdDoor.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\jquery.min.js",
+      "PackagePath": "staticwebassets\\ApiTest\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\openDoor.html",
+      "PackagePath": "staticwebassets\\ApiTest\\openDoor.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\register.html",
+      "PackagePath": "staticwebassets\\ApiTest\\register.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\resetRecord.html",
+      "PackagePath": "staticwebassets\\ApiTest\\resetRecord.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\ApiTest\\setWorkParam.html",
+      "PackagePath": "staticwebassets\\ApiTest\\setWorkParam.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\README.html",
+      "PackagePath": "staticwebassets\\README.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\SocketClient.html",
+      "PackagePath": "staticwebassets\\SocketClient.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\help.doc",
+      "PackagePath": "staticwebassets\\help.doc"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\help.html",
+      "PackagePath": "staticwebassets\\help.html"
+    },
+    {
+      "Id": "D:\\SDK\\AlarmCode-08-08-2024\\FCardProtocolAPI\\wwwroot\\~$help.doc",
+      "PackagePath": "staticwebassets\\~$help.doc"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FCardProtocolAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FCardProtocolAPI.props",
+      "PackagePath": "build\\FCardProtocolAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FCardProtocolAPI.props",
+      "PackagePath": "buildMultiTargeting\\FCardProtocolAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FCardProtocolAPI.props",
+      "PackagePath": "buildTransitive\\FCardProtocolAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

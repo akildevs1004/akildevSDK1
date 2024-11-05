@@ -1,0 +1,147 @@
+[
+  {
+    "ContainingType": "FCardProtocolAPI.Controllers.CommandController",
+    "Method": "Command",
+    "RelativePath": "{SN}/{Command}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SN",
+        "Type": "",
+        "IsRequired": true
+      },
+      {
+        "Name": "Command",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FCardProtocolAPI.Command.IFcardCommandResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCardProtocolAPI.Controllers.CommandController",
+    "Method": "CheckDeviceHealth",
+    "RelativePath": "CheckDeviceHealth/{sn}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sn",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FCardProtocolAPI.Command.IFcardCommandResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCardProtocolAPI.Controllers.CommandController",
+    "Method": "GetDevices",
+    "RelativePath": "GetDevices",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "FCardProtocolAPI.Command.IFcardCommandResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCardProtocolAPI.Controllers.CommandController",
+    "Method": "PersonAddRange",
+    "RelativePath": "Person/AddRange",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "info",
+        "Type": "FCardProtocolAPI.Command.Models.PersonAddRangeInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FCardProtocolAPI.Command.IFcardCommandResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCardProtocolAPI.Controllers.CommandController",
+    "Method": "Register",
+    "RelativePath": "Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parameter",
+        "Type": "FCardProtocolAPI.Command.FcardCommandParameter",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FCardProtocolAPI.Command.IFcardCommandResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCardProtocolAPI.Controllers.CommandController",
+    "Method": "WebSocket",
+    "RelativePath": "WebSocket",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
